@@ -1,2 +1,1 @@
-FROM gcr.io/fluentd-elasticsearch/fluentd:v2.5.1
-MAINTAINER Mosaicwang <mosaicwang@gmail.com>
+FROM gcr.io/google_containers/fluentd-elasticsearch:1.24
